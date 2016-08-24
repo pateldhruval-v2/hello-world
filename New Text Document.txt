@@ -1,2 +1,2 @@
 hello New Text Document
-edited
+edited on the desktop to use the git commend line tool.
